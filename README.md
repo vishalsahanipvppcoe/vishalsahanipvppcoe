@@ -1,7 +1,7 @@
 <!-- ======================= BANNER ======================= -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Vishal%20Sahani&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Powered%20Full%20Stack%20Developer&descAlignY=60&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Vishal%20Sahani&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%2FMEAN%20Developer%20|%20DSA%20using%20Java&descAlignY=60&descAlign=50"/>
 </div>
 
 <!-- ======================= TYPING ======================= -->
