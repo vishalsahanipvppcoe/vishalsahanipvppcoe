@@ -97,7 +97,7 @@
 https://github.com/vishalsahanipvppcoe/M
 
 🌐 **Live Demo:**  
-https://m-three-red.vercel.app/
+https://studynotion-liard-zeta.vercel.app
 
 ---
 
